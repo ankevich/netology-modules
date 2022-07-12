@@ -1,1 +1,1 @@
-console.log("Hey gorgeous!")
+import Game from "./js/app"
